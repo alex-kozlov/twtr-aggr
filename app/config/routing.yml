@@ -1,0 +1,4 @@
+watcher_twitter_aggregator:
+    resource: "@WatcherTwitterAggregatorBundle/Resources/config/routing.yml"
+    prefix:   /
+

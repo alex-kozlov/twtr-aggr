@@ -19,7 +19,9 @@
         "sensio/framework-extra-bundle": "2.3.*",
         "sensio/generator-bundle": "2.3.*",
         "incenteev/composer-parameter-handler": "~2.0",
-        "dg/twitter-php": ">=3.0"
+        "dg/twitter-php": ">=3.0",
+        "nixilla/twitter-api-consumer": "dev-master",
+        "ricardoper/twitteroauth": "dev-master"
     },
     "scripts": {
         "post-install-cmd": [

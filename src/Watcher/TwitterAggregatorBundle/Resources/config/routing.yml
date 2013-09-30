@@ -1,0 +1,3 @@
+watcher_twitter_aggregator_homepage:
+    pattern:  /twitter/test
+    defaults: { _controller: WatcherTwitterAggregatorBundle:Default:index }
